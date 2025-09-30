@@ -1,0 +1,9 @@
+
+
+> v0-clone@0.1.7 build /home/coder/workspace/v0-clone/examples/v0-clone
+> tsx lib/db/migrate && next build --turbopack
+
+POSTGRES_URL is not defined, skipping migrations
+   [1m[38;2;173;127;168m▲ Next.js 15.5.0[39m[22m (Turbopack)
+
+ [37m[1m [22m[39m Creating an optimized production build ...
