@@ -3,7 +3,7 @@
 > **🚀 Developer Preview**: Solo Builder SDK is currently in beta. Use it for experimentation and prototyping. Production use is at your own discretion.
 
 <p align="center">
-    <img src="./screenshot.png" alt="Solo Builder Screenshot" width="800" />
+    <img src="https://raw.githubusercontent.com/SoloWave-Lab/Solo-Builder/refs/heads/main/Screenshot.png" alt="Solo Builder Screenshot" width="800" />
 </p>
 
 <p align="center">
