@@ -1,7 +1,12 @@
 {
-  "name": "v0-clone",
+  "name": "solo-builder",
   "version": "0.1.7",
   "private": true,
+  "author": {
+    "name": "SoloWave",
+    "email": "youhaveme064@gmail.com",
+    "url": "https://github.com/SoloWave-Lab/Solo-Builder"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "tsx lib/db/migrate && next build --turbopack",
